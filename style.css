@@ -17,9 +17,19 @@ input {
 button {
   font-weight:bold;
   border:none;
+  padding:10px 20px;
+  border:1px solid #5f9341;
+  cursor:pointer;
+}
+
+#input-btn {
   color:#fff;
   background-color:#5f9341;
-  padding:10px 20px;
+}
+
+#delete-btn {
+  background-color:#fff;
+  color:#5f9341;
 }
 
 ul {
