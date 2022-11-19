@@ -22,7 +22,8 @@ button {
   cursor:pointer;
 }
 
-#input-btn {
+#input-btn,
+#tab-btn {
   color:#fff;
   background-color:#5f9341;
 }
